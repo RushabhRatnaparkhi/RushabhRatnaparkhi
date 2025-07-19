@@ -1,5 +1,12 @@
 ## Hi there 👋, I'm Rushabh!
 
+### 🛠️ My Fossil Collection (Tech Stack)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
 ### 📊 GitHub Stats
 
 ![Rushabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RushabhRatnaparkhi&show_icons=true&theme=gruvbox)
