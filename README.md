@@ -21,6 +21,12 @@
 
 ![Rushabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RushabhRatnaparkhi&show_icons=true&theme=gruvbox)
 
+---
+<p align="center">
+🦴 Thanks for stopping by! 
+</p>
+
+
 
 <!--
 **RushabhRatnaparkhi/RushabhRatnaparkhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
