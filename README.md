@@ -1,5 +1,10 @@
 ## Hi there 👋, I'm Rushabh!
 
+<h1 align="center">Welcome to My Fossilized Repo! 🦕</h1>
+<p align="center">
+  <i>Digging up code like it's the Jurassic era...</i>
+</p>
+
 ### 🛠️ My Fossil Collection (Tech Stack)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
