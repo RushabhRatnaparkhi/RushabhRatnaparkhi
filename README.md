@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Rushabh!
-![Banner](Rico's-Banner.png)
+![Banner](Rico's-Banner2.png)
 
 
 <h1 align="center">Welcome to My Fossilized Repo! 🦕</h1>
