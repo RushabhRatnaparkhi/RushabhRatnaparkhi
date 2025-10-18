@@ -15,6 +15,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
+[![An image of @rushabhratnaparkhi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rushabhratnaparkhi)](https://holopin.io/@rushabhratnaparkhi)
+
+
 
 
 ### 📊 GitHub Stats
